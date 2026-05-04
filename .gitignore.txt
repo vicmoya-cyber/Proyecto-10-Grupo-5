@@ -1,0 +1,17 @@
+# Archivos de compilación de .NET
+[Bb]in/
+[Ob]j/
+
+# Archivos de configuración de Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de VS Code
+.vscode/
+
+# Archivos de datos locales y logs
+*.log
+actas/*.txt
+*.csv

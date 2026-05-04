@@ -1,0 +1,14 @@
+C:\Voz Comunitaria\bin\Debug\net10.0\Voz Comunitaria.exe
+C:\Voz Comunitaria\bin\Debug\net10.0\Voz Comunitaria.deps.json
+C:\Voz Comunitaria\bin\Debug\net10.0\Voz Comunitaria.runtimeconfig.json
+C:\Voz Comunitaria\bin\Debug\net10.0\Voz Comunitaria.dll
+C:\Voz Comunitaria\bin\Debug\net10.0\Voz Comunitaria.pdb
+C:\Voz Comunitaria\obj\Debug\net10.0\Voz Comunitaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Voz Comunitaria\obj\Debug\net10.0\Voz Comunitaria.AssemblyInfoInputs.cache
+C:\Voz Comunitaria\obj\Debug\net10.0\Voz Comunitaria.AssemblyInfo.cs
+C:\Voz Comunitaria\obj\Debug\net10.0\Voz Comunitaria.csproj.CoreCompileInputs.cache
+C:\Voz Comunitaria\obj\Debug\net10.0\Voz Comunitaria.dll
+C:\Voz Comunitaria\obj\Debug\net10.0\refint\Voz Comunitaria.dll
+C:\Voz Comunitaria\obj\Debug\net10.0\Voz Comunitaria.pdb
+C:\Voz Comunitaria\obj\Debug\net10.0\Voz Comunitaria.genruntimeconfig.cache
+C:\Voz Comunitaria\obj\Debug\net10.0\ref\Voz Comunitaria.dll
