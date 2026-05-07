@@ -8,15 +8,15 @@ Gestión: 2026
 
 Integrantes:
 
--Juan Andres Anagua Tarquino
+-Juan Andres Anagua Tarquino[Edicion|Voz]
 
--Joneyli Rous Condarco Luna 
+-Joneyli Rous Condarco Luna[Guion|Voz]
 
--Sebastian Israel Corrales Mattos
+-Sebastian Israel Corrales Mattos[Edicion|Voz]
 
--Victor Jose Moya Oliver
+-Victor Jose Moya Oliver[Programacion]
 
--Adamari Eliana Villena Lascano
+-Adamari Eliana Villena Lascano[Guion|Informe]
 
 Docente: Lic. Andres Grover Albino Chambi
 
